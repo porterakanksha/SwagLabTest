@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-24T10:32:26Z" name="Suite" finished-at="2023-04-24T10:32:39Z" duration-ms="13394">
+    <groups>
+    </groups>
+    <test started-at="2023-04-24T10:32:26Z" name="Test" finished-at="2023-04-24T10:32:39Z" duration-ms="13394">
+      <class name="testcases.TwoLoginTest">
+        <test-method is-config="true" signature="ReportSetup()[pri:0, instance:testcases.TwoLoginTest@4be29ed9]" started-at="2023-04-24T10:32:26Z" name="ReportSetup" finished-at="2023-04-24T10:32:27Z" duration-ms="610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportSetup -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:testcases.TwoLoginTest@4be29ed9]" started-at="2023-04-24T10:32:27Z" name="Setup" finished-at="2023-04-24T10:32:30Z" duration-ms="3563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Datafromsheet()[pri:0, instance:testcases.TwoLoginTest@4be29ed9]" started-at="2023-04-24T10:32:30Z" name="Datafromsheet" finished-at="2023-04-24T10:32:34Z" duration-ms="3462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Datafromsheet -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:testcases.TwoLoginTest@4be29ed9]" started-at="2023-04-24T10:32:34Z" name="Teardown" finished-at="2023-04-24T10:32:34Z" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:testcases.TwoLoginTest@4be29ed9]" started-at="2023-04-24T10:32:34Z" name="Setup" finished-at="2023-04-24T10:32:37Z" duration-ms="3047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Positive()[pri:0, instance:testcases.TwoLoginTest@4be29ed9]" started-at="2023-04-24T10:32:37Z" name="Positive" finished-at="2023-04-24T10:32:39Z" duration-ms="2294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Positive -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:testcases.TwoLoginTest@4be29ed9]" started-at="2023-04-24T10:32:39Z" name="Teardown" finished-at="2023-04-24T10:32:39Z" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- testcases.TwoLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
